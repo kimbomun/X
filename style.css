@@ -1,0 +1,239 @@
+
+  * {
+    magin: 0px;
+    padding: 0px;
+    background-color:#fcf0be;
+    font-family: 'Noto Sans KR';
+  }
+
+
+  header{
+    margin: 10px 100px 20px 100px;
+    width: 1200px; height: auto;}
+
+  aside{
+    width:100px;
+    float:left;
+    padding:2px;
+    margin-left: 100px;
+    margin-right: 14px;
+
+  }
+
+  nav{
+    margin-bottom: 50px;
+    margin:5px;
+    font-size: 12px;
+    font-weight: bold;
+    position: fixed;
+  }
+
+a{
+   text-decoration: none; color:#000;}
+
+nav a:hover {
+  color: #fcf0be; background-color: #000;
+  padding: 5px; text-decoration: none;}
+
+  li{
+    list-style-type:none;}
+
+  main{
+    width:1194px;
+    height:1400px;
+    float:left;
+    margin: 0px;
+
+  }
+
+  section {
+    width:1194px; height:600px;
+    margin:0px 0px 150px 0px;
+    text-align: center;
+    font-size: 14px;
+  }
+
+
+
+.me{
+  margin-top: 50px;
+  text-align: center;
+}
+
+#box_1{
+  margin-top: 40px;
+  margin-left: 0px;
+  float: left;
+}
+
+#box_2{
+  margin-top: 40px;
+  margin-left: 30px;
+  float: left;
+
+}
+
+#text{
+  float: right;
+  margin-top: 60px;
+  font-size: 16px;
+  text-align: left;
+
+}
+
+.p{
+text-align: right;
+margin-right: 0px;}
+
+.Profile{
+  text-align: left;
+  margin-left: 550px;
+}
+
+.food{
+  margin-top: 50px;
+}
+
+.food_1{
+  margin-top: 80px;
+  margin-right: 30px;
+  float: right;
+}
+
+.food_2{
+  margin-top: 80px;
+  margin-right: 0px;
+  float: right;
+}
+
+#mara{
+  float: left;
+  margin-top: 100px;
+  font-size: 16px;
+  text-align: left;
+}
+
+.work1{
+  margin-top: 100px;
+  margin-right: 40px;
+  display: inline;
+}
+
+#work2 li{
+  display: inline;
+  margin-right: 250px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#work3 li{
+  display: inline;
+  margin-right: 220px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#me li{
+  display: inline;
+  margin-right: 40px;
+  float: right;
+  margin-top: 170px;
+}
+
+#index_main{
+  height: 500px;
+}
+
+.cosy_img0{
+  margin : 10px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  display: inline-block;
+}
+.cosy_img{
+  display: inline-block;
+  margin-top: 60px;
+  margin-right: 80px;
+}
+
+.cosy_img2{
+  display: inline-block;
+  margin-top: 60px;
+  margin-right: 140px;
+}
+
+.cosy_text{
+  text-align: center;
+}
+
+.cosy_text2{
+  margin-top: 50px;
+  text-align: left;
+}
+
+.moto_img{
+  margin-left: 0px;
+  margin-top: 60px;
+  float: left;
+}
+
+.moto_text{
+  text-align: left;
+  float: right;
+  margin-top: 150px;
+}
+
+.moto_img2{
+  margin-top: 40px;
+  float: right;
+  margin-bottom: 60px;
+}
+
+.moto_text2{
+  margin-top: 40px;
+  float: right;
+  text-align: left;
+}
+
+.cube_img{
+  margin-left: 0px;
+  float: left;
+  margin-top: 60px;
+}
+
+.cube_text{
+  margin-top: 200px;
+  margin-left: 50px;
+ float: right;
+ text-align: left;
+}
+
+.cube_img2{
+  margin-top: 60px;
+  margin-right: 30px;
+  display: inline;
+}
+
+.draw_img{
+float: left;
+}
+
+.draw_text{
+margin-top: 300px;
+float:right;
+text-align: left;
+}
+
+.draw_img2{
+  float: right;
+}
+.draw_text2{
+  margin-top: 370px;
+  float:left;
+  text-align: left;
+}
+
+.work_text{
+  text-align: left;
+  margin-left: 70px;
+}
